@@ -1,4 +1,4 @@
-# Digit-Classifier
+# Digit Classifier
 
 <div align="center">
   <img src="https://github.com/ManideepTelukuntla/Digit-Classifier/blob/main/Images/Digit-Classifier-Interface.png" width="800" height="425" alt="Digit Classifier Interface">
