@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://github.com/ManideepTelukuntla/Digit-Classifier/blob/main/Images/Digit-Classifier-Interface.png" width="800" height="425" alt="Digit Classifier Interface">
   <br>
-  <p>Digit Classifier Interface <a href="https://msbaoptim2-4.anvil.app/">Webpage</a></p>
+  <p>Digit Classifier Interface: <a href="https://msbaoptim2-4.anvil.app/">Webpage</a></p>
 </div>
 
 ## Table of Contents
