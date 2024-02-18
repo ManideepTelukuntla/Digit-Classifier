@@ -52,7 +52,7 @@ Refer to `requirements.txt` within the `Digit-Classifier` folder to ascertain th
 </div>
 
 ## 5. File Descriptions
-- **`Digit-Classifier-Using-CNN-Vs-ViT.ipynb`**: This Jupyter Notebook contains Python code for training, fine-tuning, and visulizating metrics for both CNN & ViT models on MNIST dataset.
+- **`Digit-Classifier-Using-CNN-Vs-ViT.ipynb`**: This Jupyter Notebook contains Python code for training, fine-tuning, and visualizing metrics for both CNN & ViT models on MNIST dataset.
 - **`Digit-Classifier`**: This folder contain various code files for CNN and ViT models, a Docker configuration file, a Python application file, and a requirements.txt file.
 - **`CNN-Assets`**: This folder conatin assets (epoch-accuracy-graph, confusion matrix, misclassifiactions vs correct classifictaions) related to CNN before retraining the model on entire training dataset.
 - **`CNN-Assets-Retrained-Model`**: This folder conatin assets (confusion matrix, misclassifiactions vs correct classifictaions) related to CNN after retraining the model on entire training dataset.
