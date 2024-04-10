@@ -90,4 +90,4 @@ Misclassification analysis revealed patterns and challenges in recognizing certa
 The Digit Classifier Project showcases the integration of cutting-edge machine learning technologies into a scalable, user-centric application. By addressing the complexities of digit recognition through continuous model evolution and leveraging a cloud-based architecture, this project demonstrates the potential of advanced machine learning models to provide tangible, accessible solutions for digit classification tasks.
 
 ## 10. License
-Licensed under [MIT License](https://github.com/ManideepTelukuntla/InvestigateTMDBMovieData/blob/master/LICENSE)
+Licensed under [MIT License](https://github.com/ManideepTelukuntla/Digit-Classifier/blob/master/LICENSE)
